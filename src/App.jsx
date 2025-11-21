@@ -1,9 +1,9 @@
-import PokemonList from "./components/PokemonList";
+import GhibliList from "./components/GhibliList";
 
 function App() {
   return (
     <div>
-      <PokemonList />
+      <GhibliList />
     </div>
   );
 }
